@@ -1,0 +1,35 @@
+[
+  {
+    "variant": "FullScreen",
+    "compilation": "passed",
+    "dex_sha256": "57ab154d2ec84ae1fda85805cde9b7f661fb9bea1f5028737ff3f07be4dd6518",
+    "matches_original_apk_code": true,
+    "variant_metadata": {
+      "NAV_KEYS_LAYOUT": false,
+      "TABLET_LAYOUT": false
+    },
+    "output_signed": false
+  },
+  {
+    "variant": "NavKeys",
+    "compilation": "passed",
+    "dex_sha256": "57ab154d2ec84ae1fda85805cde9b7f661fb9bea1f5028737ff3f07be4dd6518",
+    "matches_original_apk_code": true,
+    "variant_metadata": {
+      "NAV_KEYS_LAYOUT": true,
+      "TABLET_LAYOUT": false
+    },
+    "output_signed": false
+  },
+  {
+    "variant": "TabletAdaptive",
+    "compilation": "passed",
+    "dex_sha256": "57ab154d2ec84ae1fda85805cde9b7f661fb9bea1f5028737ff3f07be4dd6518",
+    "matches_original_apk_code": true,
+    "variant_metadata": {
+      "NAV_KEYS_LAYOUT": false,
+      "TABLET_LAYOUT": true
+    },
+    "output_signed": false
+  }
+]

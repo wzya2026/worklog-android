@@ -1,0 +1,10 @@
+/.build/
+/dist/
+/release-assets/
+*.keystore
+*.jks
+*.db
+*.db-*
+.env
+local.properties
+*.log

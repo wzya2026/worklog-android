@@ -1,0 +1,11 @@
+{
+  "version": "1.70",
+  "source_files_unchanged": {
+    "AndroidManifest.xml": "3d8514232619cd2880115bde0e30227a3eb985e261baf918c39b66414bcba2fa",
+    "src/com/example/worklog/BootReceiver.java": "6889f7d63c84bb121c24baa99d99ececcb7faccef47692eeafbbecded61a1df9",
+    "src/com/example/worklog/MainActivity.java": "de84e9df41414b20ec8536d8f8ebc456e4df77c74e7cf053be014253bdaace23",
+    "src/com/example/worklog/ReminderReceiver.java": "65f2bb9555df71676602a12b13dcd4efd8f7a052a86186bb525d9db7db8c66cd",
+    "src/com/example/worklog/WorkLogDb.java": "dd8c7c63e69b1965f4bb4a9561ff84393791546b92f96188898b766529dd28bf",
+    "res/drawable/ic_launcher.xml": "4c73487cbf07e45d0b5b009e29bee27ed71977da1f76f8fa544c8f7e9e0d5061"
+  }
+}

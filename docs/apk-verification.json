@@ -1,0 +1,56 @@
+[
+  {
+    "file": "WorkLog-v1.70-FullScreen.apk",
+    "bytes": 45533,
+    "sha256": "22c024739fbfb892ddd9960c071aa319dfe7c022c175d55ef79fd80c8916b794",
+    "package": "com.example.worklog",
+    "version_name": "1.70",
+    "version_code": 28,
+    "min_sdk": 26,
+    "target_sdk": 35,
+    "variant_metadata": {
+      "NAV_KEYS_LAYOUT": false,
+      "TABLET_LAYOUT": false
+    },
+    "dex_sha256": "57ab154d2ec84ae1fda85805cde9b7f661fb9bea1f5028737ff3f07be4dd6518",
+    "signer_certificate_sha256": "ee45764eaf7957fca09b07773989da8dbe711e540ab9e0a7bd851f62c9527954",
+    "signature_verified": true,
+    "internet_permission": false
+  },
+  {
+    "file": "WorkLog-v1.70-NavKeys.apk",
+    "bytes": 45533,
+    "sha256": "5ef64b9045360c09b4b6d3c1ab210c0c3588478c5fbb3564d0b2ff42164e26f7",
+    "package": "com.example.worklog",
+    "version_name": "1.70",
+    "version_code": 28,
+    "min_sdk": 26,
+    "target_sdk": 35,
+    "variant_metadata": {
+      "NAV_KEYS_LAYOUT": true,
+      "TABLET_LAYOUT": false
+    },
+    "dex_sha256": "57ab154d2ec84ae1fda85805cde9b7f661fb9bea1f5028737ff3f07be4dd6518",
+    "signer_certificate_sha256": "ee45764eaf7957fca09b07773989da8dbe711e540ab9e0a7bd851f62c9527954",
+    "signature_verified": true,
+    "internet_permission": false
+  },
+  {
+    "file": "WorkLog-v1.70-TabletAdaptive.apk",
+    "bytes": 45533,
+    "sha256": "771df1ef024c3961ca3d8302ae2f71153c70024956c0fb3f04c588b043e2851a",
+    "package": "com.example.worklog",
+    "version_name": "1.70",
+    "version_code": 28,
+    "min_sdk": 26,
+    "target_sdk": 35,
+    "variant_metadata": {
+      "NAV_KEYS_LAYOUT": false,
+      "TABLET_LAYOUT": true
+    },
+    "dex_sha256": "57ab154d2ec84ae1fda85805cde9b7f661fb9bea1f5028737ff3f07be4dd6518",
+    "signer_certificate_sha256": "ee45764eaf7957fca09b07773989da8dbe711e540ab9e0a7bd851f62c9527954",
+    "signature_verified": true,
+    "internet_permission": false
+  }
+]

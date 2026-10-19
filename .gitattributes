@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.apk binary
+*.zip binary
+src/**/*.java -text
+res/**/*.xml -text
+AndroidManifest.xml -text
